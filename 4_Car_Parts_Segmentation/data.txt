@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/humansintheloop/car-parts-and-car-damages?utm_source=chatgpt.com
+
+
+https://huggingface.co/datasets/DrBimmer/car-parts-and-damage-dataset/commit/366dc9815ea80fc6792606db4314bcc31a4cf42e?utm_source=chatgpt.com
+
+https://github.com/dsmlr/Car-Parts-Segmentation?utm_source=chatgpt.com
+
+
+https://universe.roboflow.com/shinhatest/car-parts-segmentation-0gniu?utm_source=chatgpt.com
+
+https://docs.ultralytics.com/datasets/segment/carparts-seg/?utm_source=chatgpt.com
+
+
+
+https://xinchenliu.com/MVP.html?utm_source=chatgpt.com
